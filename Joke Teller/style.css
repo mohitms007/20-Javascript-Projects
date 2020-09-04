@@ -15,8 +15,8 @@ body{
   align-items: center;
   flex-direction: column;
   background: url('./robot.gif');
-  background-size: contain;
-  background-position: left center;
+  background-size: auto;
+  background-position: left ;
   background-repeat: no-repeat;
 }
 
